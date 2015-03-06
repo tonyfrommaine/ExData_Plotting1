@@ -1,5 +1,14 @@
 ## Introduction
 
+Student Notes:
+There are 5 .R files, one for each plot exercise names plot1.R, plot2.R, plot3.R and plot4.R
+plus .R which is called from each one of these to load the data.
+Each plot%.R file should be executed to create it's corresponding .png file.
+All .png are 480X480 and are direct output of the .R files.
+There is inline documentation in each .R file.
+
+Actual Assignment Instructions Follow.
+
 This assignment uses data from
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
